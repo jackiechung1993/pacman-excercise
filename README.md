@@ -1,5 +1,4 @@
-# pacman-excercise
-# Name: Pacman Excercise > Animation Movement from left to right
+# Pacman Excercise: Animation Movement from left to right
 Description: Pacman Project
 Installation: To get started, I utilized VS to help create additional scripts. Then, apply this into the console to test the environment of the script.
 Usage: I can utilize these functions to create a game. Soon, we can apply trigger functions to help direct pacman to its destination. 
