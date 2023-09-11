@@ -10,8 +10,12 @@ The are a couple resources that was used to help create this project.
 MDN: To help create a simulation - https://developer.mozilla.org/en-US/play
 Test Environment - Google Console, Microsoft Edge
 Working on https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript/Collision_detection
-Roadmap: 
-Intial Phase: Here we created a frame. Pacman has movement in only one direction. 
-Second Phase: Directional movement by Pacman using arrow keys > Eats exploding paint balls by a click. 
-Final Phase: Items to create increased speed movement, increase size of Pacman to eat larger areas of the frame. Create more balls for each level with a set timer to increase difficulty level. 
-License information: This project was provided by MIT Class and through codio. 
+## Roadmap: 
+### Intial Phase: 
+Here we created a frame. Pacman has movement in only one direction. 
+### Second Phase: 
+Directional movement by Pacman using arrow keys > Eats exploding paint balls by a click. 
+### Final Phase: 
+Items to create increased speed movement, increase size of Pacman to eat larger areas of the frame. Create more balls for each level with a set timer to increase difficulty level. 
+## License information: 
+This project was provided by MIT Class and through codio. 
