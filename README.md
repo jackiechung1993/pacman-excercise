@@ -1,6 +1,6 @@
-# Pacman Excercise: Animation Movement from left to right
+# Pacman Excercise: Animation Movement
 ## Description: 
-Pacman Proje
+Pacman Project
 ## Installation: 
 To get started, I utilized VS to help create additional scripts. Then, apply this into the console to test the environment of the script. Through the pacman html file I called to two JSS scripts. 
 ## Usage: 
