@@ -1,4 +1,4 @@
-# Pacman Excercise: Animation Movement
+# Pacman Exercise: Animation Movement
 ## Description: 
 Pacman Project
 ## Installation: 
